@@ -1,0 +1,93 @@
+#nav {font-family: 'Tomorrow', sans-serif;}
+
+h1 {font-family: 'Tomorrow', sans-serif;}
+
+.grid-container {
+  display: grid;
+  grid-template-columns:auto auto auto; 
+  background-color: 
+  padding: 10px;
+  column-rule-width: 40%;
+}
+
+.grid-container2 {
+  display: grid;
+  grid-template-columns:auto auto auto; 
+  background-color: 
+  padding: 10px;
+  column-rule-width: 30%; background-color:blue;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8); 
+  
+  padding: 20px;
+  font-size: 14px;
+  text-align:center;
+}
+
+#nav { width: 100px; padding-top: 1px; text-align: left; padding-left: 30px;
+}
+
+#member-image{ position: absolute; float: right; right: 300px; z-index: 2;
+}
+
+#steve{width:350px; position:relative; top:400px;text-align: left; padding-left: 50px; 
+}
+
+#trevor{width: 500px; position:relative; top:400px; text-align: left;
+}
+
+#joel{width:350px; position: relative; top:400px; text-align: left;
+}
+
+p{ margin-top: -10px
+}
+
+/*cool red line below*/
+
+
+/*.redeffect_h {
+  width: 50px;
+  height: 10px;
+  background: red;
+   position:absolute; left:1150px; top:50px;
+    transition: width 2s; z-index: 3;
+}
+
+.redeffect_h:hover {
+  width: 200px; z-index: 3;
+}
+
+.redeffect_v {
+  width: 10px;
+  height: 50px;
+  background: red;
+   position:absolute; left:1190px; top:50px;
+    transition: height 2s; z-index: 3;
+}
+
+.redeffect_v:hover {
+  height: 200px; z-index: 3;
+}*/
+
+
+#tfk { font-size: 500px; position: absolute; z-index: 1; top:10px; left:250px
+}
+
+h1{left:630px; position: absolute
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
